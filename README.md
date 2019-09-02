@@ -2,7 +2,7 @@
 提供最基本的框架运行环境及DEMO程序.
 
 详细文档可访问以下地址获得:
-http://www.uosgi.com
+http://www.ehr-cloud.com/download/UNITOR3.2MINI.zip
 
 **1配置JAVA运行环境**
 
@@ -27,3 +27,5 @@ http://www.uosgi.com
 
   Window:双击 runs/startup.bat .
   Linux:运行 runs/startup.sh .
+  
+  
