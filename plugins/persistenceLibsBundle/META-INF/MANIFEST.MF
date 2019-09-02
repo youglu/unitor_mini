@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: PersistenceLibsBundle
+Bundle-SymbolicName: persistenceLibsBundle
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Bundle-ClassPath: libs/c3p0-0.9.1.jar,
+ libs/com.springsource.javax.persistence-1.0.0.jar,
+ libs/derbyclient.jar,
+ libs/javassist-3.9.0.GA.jar,
+ libs/mysql-connector-java-5.1.9.jar,
+ .
+Export-Package: javassist,
+ javassist.bytecode,
+ javassist.bytecode.annotation,
+ javax.persistence,
+ javax.persistence.spi

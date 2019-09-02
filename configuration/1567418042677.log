@@ -1,0 +1,186 @@
+!SESSION 2019-09-02 17:54:02.606 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_111
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -console -debug
+
+!ENTRY org.eclipse.osgi 4 0 2019-09-02 17:54:02.844
+!MESSAGE Bundle reference:file:plugins/jetty/jetty8/annotations/javax.annotation-1.1.0.v201108011116.jar@start not found.
+
+!ENTRY org.eclipse.osgi 4 0 2019-09-02 17:54:02.844
+!MESSAGE Bundle reference:file:plugins/jetty/jetty8/annotations/org.objectweb.asm-3.1.0.v200803061910.jar@start not found.
+
+!ENTRY org.eclipse.osgi 4 0 2019-09-02 17:54:02.844
+!MESSAGE Bundle reference:file:javax.el_2.2.0.v201303151357.jar@start not found.
+
+!ENTRY org.eclipse.osgi 4 0 2019-09-02 17:54:02.845
+!MESSAGE Bundle reference:file:org.eclipse.equinox.http.servlet_1.1.400.v20130418-1354.jar@start not found.
+
+!ENTRY org.eclipse.osgi 4 0 2019-09-02 17:54:02.845
+!MESSAGE Bundle reference:file:org.eclipse.equinox.jsp.jasper_1.0.400.v20130327-1442.jar@start not found.
+
+!ENTRY org.eclipse.osgi 4 0 2019-09-02 17:54:02.845
+!MESSAGE Bundle reference:file:org.eclipse.equinox.registry_3.5.301.v20130717-1549.jar@start not found.
+
+!ENTRY org.eclipse.osgi 4 0 2019-09-02 17:54:02.846
+!MESSAGE Bundle reference:file:plugins/jetty/jetty8/jsp/com.sun.el-2.2.0.v201108011116.jar@start not found.
+
+!ENTRY org.eclipse.osgi 4 0 2019-09-02 17:54:02.846
+!MESSAGE Bundle reference:file:plugins/javax.el_2.2.0.v201303151357.jar@start not found.
+
+!ENTRY org.eclipse.osgi 4 0 2019-09-02 17:54:02.847
+!MESSAGE Bundle reference:file:plugins/javax.servlet.jsp_2.2.0.v201112011158.jar@start not found.
+
+!ENTRY org.eclipse.osgi 4 0 2019-09-02 17:54:02.847
+!MESSAGE Bundle reference:file:org.eclipse.equinox.http.registry_1.1.300.v20130402-1529.jar@start not found.
+
+!ENTRY org.eclipse.osgi 4 0 2019-09-02 17:54:02.847
+!MESSAGE Bundle reference:file:org.eclipse.equinox.jsp.jasper.registry_1.0.300.v20130327-1442.jar@start not found.
+
+!ENTRY org.eclipse.osgi 4 0 2019-09-02 17:54:02.848
+!MESSAGE Bundle reference:file:org.eclipse.osgi.util_3.2.300.v20130513-1956.jar@start not found.
+
+!ENTRY org.eclipse.osgi 4 0 2019-09-02 17:54:02.848
+!MESSAGE Bundle reference:file:plugins/jetty/jetty8/jetty-deploy-8.1.16.v20140903.jar@start not found.
+
+!ENTRY org.eclipse.osgi 4 0 2019-09-02 17:54:02.848
+!MESSAGE Bundle reference:file:plugins/jetty/jetty8/jetty-continuation-8.1.16.v20140903.jar@start not found.
+
+!ENTRY org.eclipse.osgi 4 0 2019-09-02 17:54:02.849
+!MESSAGE Bundle reference:file:plugins/jetty/jetty8/jetty-util-8.1.16.v20140903.jar@start not found.
+
+!ENTRY org.eclipse.osgi 4 0 2019-09-02 17:54:02.849
+!MESSAGE Bundle reference:file:plugins/jetty/jetty8/jetty-http-8.1.16.v20140903.jar@start not found.
+
+!ENTRY org.eclipse.osgi 4 0 2019-09-02 17:54:02.849
+!MESSAGE Bundle reference:file:plugins/jetty/jetty8/jetty-io-8.1.16.v20140903.jar@start not found.
+
+!ENTRY org.eclipse.osgi 4 0 2019-09-02 17:54:02.850
+!MESSAGE Bundle reference:file:plugins/jetty/jetty8/jetty-security-8.1.16.v20140903.jar@start not found.
+
+!ENTRY org.eclipse.osgi 4 0 2019-09-02 17:54:02.850
+!MESSAGE Bundle reference:file:plugins/jetty/jetty8/jetty-server-8.1.16.v20140903.jar@start not found.
+
+!ENTRY org.eclipse.osgi 4 0 2019-09-02 17:54:02.850
+!MESSAGE Bundle reference:file:plugins/jetty/jetty8/jetty-servlet-8.1.16.v20140903.jar@start not found.
+
+!ENTRY org.eclipse.osgi 4 0 2019-09-02 17:54:02.850
+!MESSAGE Bundle reference:file:plugins/jetty/jetty8/jetty-xml-8.1.16.v20140903.jar@start not found.
+
+!ENTRY org.eclipse.osgi 4 0 2019-09-02 17:54:02.851
+!MESSAGE Bundle reference:file:plugins/jetty/jetty8/jetty-webapp-8.1.17-SNAPSHOT.jar@start not found.
+
+!ENTRY org.eclipse.osgi 4 0 2019-09-02 17:54:02.851
+!MESSAGE Bundle reference:file:plugins/jetty/jetty8/jetty-plus-8.1.16.v20140903.jar@start not found.
+
+!ENTRY org.eclipse.osgi 4 0 2019-09-02 17:54:02.851
+!MESSAGE Bundle reference:file:plugins/jetty/jetty8/jsp/javax.servlet.jsp-2.2.0.v201112011158.jar@start not found.
+
+!ENTRY org.eclipse.osgi 4 0 2019-09-02 17:54:02.851
+!MESSAGE Bundle reference:file:plugins/jetty/jetty8/jsp/org.eclipse.jdt.core-3.7.1.jar@start not found.
+
+!ENTRY org.eclipse.osgi 4 0 2019-09-02 17:54:02.851
+!MESSAGE Bundle reference:file:plugins/jetty/jetty8/org.eclipse.jetty.osgi.boot_8.1.16.v20140903.jar@start not found.
+
+!ENTRY org.eclipse.osgi 4 0 2019-09-02 17:54:02.852
+!MESSAGE Bundle reference:file:plugins/jetty/jetty8/jetty-nosql-8.1.19-SNAPSHOT.jar@start not found.
+
+!ENTRY org.eclipse.osgi 4 0 2019-09-02 17:54:02.852
+!MESSAGE Bundle reference:file:plugins/jetty/jetty8/jetty-osgi-boot-jsp-8.1.16.v20140903.jar@start not found.
+
+!ENTRY org.eclipse.osgi 4 0 2019-09-02 17:54:02.852
+!MESSAGE Bundle reference:file:plugins/jetty/jetty8/jsp/javax.servlet.jsp.jstl-1.2.0.v201105211821.jar@start not found.
+
+!ENTRY org.eclipse.osgi 4 0 2019-09-02 17:54:02.852
+!MESSAGE Bundle reference:file:plugins/jetty/jetty8/jsp/org.apache.taglibs.standard.glassfish-1.2.0.v201112081803.jar@start not found.
+
+!ENTRY org.eclipse.osgi 4 0 2019-09-02 17:54:02.852
+!MESSAGE Bundle reference:file:plugins/jetty/jetty8/jsp/org.apache.jasper.glassfish-2.2.2.v201112011158.jar@start not found.
+
+!ENTRY org.eclipse.osgi 4 0 2019-09-02 17:54:02.853
+!MESSAGE Bundle reference:file:plugins/jetty/jetty8/jetty-jndi-8.1.16.v20140903.jar@start not found.
+
+!ENTRY org.eclipse.osgi 4 0 2019-09-02 17:54:02.853
+!MESSAGE Bundle reference:file:plugins/jetty/jetty8/jetty-annotations-8.1.16.v20140903.jar@start not found.
+
+!ENTRY org.eclipse.osgi 4 0 2019-09-02 17:54:02.853
+!MESSAGE Bundle reference:file:plugins/ujettyWebUtil_1.0.0.jar@start not found.
+
+!ENTRY org.eclipse.osgi 4 0 2019-09-02 17:54:02.853
+!MESSAGE Bundle reference:file:plugins/mongo-java-driver-2.6.1.jar@start not found.
+
+!ENTRY org.eclipse.osgi 4 0 2019-09-02 17:54:02.853
+!MESSAGE Bundle reference:file:jettyosgibootsessionfragment_1.0.0.jar@start not found.
+
+!ENTRY org.eclipse.osgi 4 0 2019-09-02 17:54:02.854
+!MESSAGE Bundle reference:file:plugins/Authorization_1.1.0.jar@3:start not found.
+
+!ENTRY org.eclipse.osgi 4 0 2019-09-02 17:54:02.854
+!MESSAGE Bundle reference:file:plugins/UserManagerBundlev2@4:start not found.
+
+!ENTRY org.eclipse.osgi 4 0 2019-09-02 17:54:02.854
+!MESSAGE Bundle reference:file:plugins/VelocityBundle_1.1.1@3:start not found.
+
+!ENTRY org.eclipse.osgi 4 0 2019-09-02 17:54:02.855
+!MESSAGE Bundle reference:file:plugins/C3P0bundle@start not found.
+
+!ENTRY org.eclipse.osgi 4 0 2019-09-02 17:54:02.855
+!MESSAGE Bundle reference:file:plugins/PowerManagerApi_1.1.2.jar@start not found.
+
+!ENTRY org.eclipse.osgi 4 0 2019-09-02 17:54:02.855
+!MESSAGE Bundle reference:file:plugins/PowerManagerImpl_1.1.2.jar@start not found.
+
+!ENTRY org.eclipse.osgi 4 0 2019-09-02 17:54:02.856
+!MESSAGE Bundle reference:file:plugins/RoleManagerApi_1.1.0.jar@start not found.
+
+!ENTRY org.eclipse.osgi 4 0 2019-09-02 17:54:02.856
+!MESSAGE Bundle reference:file:plugins/RoleManagerImpl_1.1.0.jar@start not found.
+
+!ENTRY org.eclipse.osgi 4 0 2019-09-02 17:54:02.856
+!MESSAGE Bundle reference:file:plugins/UFace2@start not found.
+
+!ENTRY org.eclipse.osgi 4 0 2019-09-02 17:54:02.856
+!MESSAGE Bundle reference:file:plugins/SecurityUnit_1.0.1.jar@start not found.
+
+!ENTRY org.eclipse.osgi 4 0 2019-09-02 17:54:02.857
+!MESSAGE Bundle reference:file:plugins/MemberAPI_1.1.0.0.jar@start not found.
+
+!ENTRY org.eclipse.osgi 4 0 2019-09-02 17:54:02.857
+!MESSAGE Bundle reference:file:plugins/MemberBundle@start not found.
+
+!ENTRY org.eclipse.osgi 4 0 2019-09-02 17:54:02.857
+!MESSAGE Bundle reference:file:plugins/ServiceUnit@start not found.
+
+!ENTRY org.eclipse.osgi 4 0 2019-09-02 17:54:02.857
+!MESSAGE Bundle reference:file:plugins/p/ehcacheUnit_1.0.1.jar@start not found.
+
+!ENTRY org.eclipse.osgi 4 0 2019-09-02 17:54:02.857
+!MESSAGE Bundle reference:file:plugins/p/basedatautil_1.0.0.jar@start not found.
+
+!ENTRY org.eclipse.osgi 4 0 2019-09-02 17:54:02.857
+!MESSAGE Bundle reference:file:plugins/p/hrbase_1.0.0.jar@start not found.
+
+!ENTRY org.eclipse.osgi 4 0 2019-09-02 17:54:02.858
+!MESSAGE Bundle reference:file:plugins/p/PSEmployeeManager@start not found.
+
+!ENTRY org.eclipse.osgi 4 0 2019-09-02 17:54:02.858
+!MESSAGE Bundle reference:file:plugins/p/PSContractManager@start not found.
+
+!ENTRY org.eclipse.osgi 4 0 2019-09-02 17:54:02.858
+!MESSAGE Bundle reference:file:plugins/p/HORAFace_1.0.0@start not found.
+
+!ENTRY org.eclipse.osgi 4 0 2019-09-02 17:54:02.858
+!MESSAGE Bundle reference:file:plugins/pubResourse@start not found.
+
+!ENTRY org.eclipse.osgi 4 0 2019-09-02 17:54:03.399
+!MESSAGE Bundle org.eclipse.equinox.common_3.6.200.v20130402-1505 [4] is not active.
+
+!ENTRY org.eclipse.osgi 4 0 2019-09-02 17:54:03.407
+!MESSAGE Application error
+!STACK 1
+java.lang.IllegalStateException: Unable to acquire application service. Ensure that the org.eclipse.core.runtime bundle is resolved and started (see config.ini).
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:74)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:354)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:181)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.main(EclipseStarter.java:152)

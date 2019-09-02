@@ -1,0 +1,3 @@
+./
+title UNITOR3.0_mini
+java -Dcom.sun.management.jmxremote=true -Dcom.sun.management.jmxremote.port=19090 -Dcom.sun.management.jmxremote.ssl=false -Dcom.sun.management.jmxremote.authenticate=false -Dsun.zip.disableMemoryMapping=true -server -Xms2g -Xmx2g -XX:ParallelGCThreads=8 -XX:PermSize=256m -XX:MaxPermSize=512m -Xss256k -XX:-DisableExplicitGC -XX:+UseCompressedOops -XX:+UseConcMarkSweepGC -XX:+CMSParallelRemarkEnabled -Djava.rmi.server.hostname=www.ehr-cloud.com   -Djava.awt.headless=true -jar ../org.eclipse.osgi_3.9.1.v20130814-1242.jar -console -debug 

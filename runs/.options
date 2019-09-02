@@ -1,0 +1,4 @@
+org.eclipse.help/debug = true
+org.eclipse.help/debug/context = true
+org.eclipse.jetty/debug = true
+org.eclipse.osgi/debug = true
