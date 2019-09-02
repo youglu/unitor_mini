@@ -26,6 +26,7 @@ http://www.ehr-cloud.com/download/UNITOR3.2MINI.zip
 **3运行**
 
   Window:双击 runs/startup.bat .
+  
   Linux:运行 runs/startup.sh .
   
   
